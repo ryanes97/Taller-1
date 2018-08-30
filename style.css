@@ -1,0 +1,23 @@
+body{
+  background-color: #c5dfc5;
+}
+
+h1{
+  text-align-last: center;
+  font-family: sans-serif;
+}
+
+li{
+  display: inline;
+  padding: 10px;
+}
+
+footer{
+  font-size: .8em;
+}
+
+div{
+  width: 700px;
+  margin: auto;
+  display: block;
+}
